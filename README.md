@@ -8,11 +8,11 @@ Written in javascript by use of node.js. Other options are available if node is 
 
 Looking for individuals who are able to run these scripts 24/7 and write a log of how many hits you have over a specified amount of time.
 
-DISCLAIMER - I am not liable or responsible for any reprecussions given for use of these programs. These programs are for educational and dara collection purposes only.
+DISCLAIMER - We are liable or responsible for any reprecussions given for use of these programs. These programs are for educational and data collection purposes only.
 
 Follow readme file to install required modules for the proper function of the scripts. Node modules are not included in download file to decrease file size.
 
-I will only be accepting 5-10 indivduals to test this initially. Others will be added quickly as time passes.
+Only accepting 5-10 indivduals to test this initially. Others will be added quickly as time passes.
 
 If you are interested the testing documentation is stored via telegram https://t.me/+mkro7F1LmcJkMTg5 so we are able to communicate regularly as amount of testers is increasex. We need feedback on your results and expect within a day of starting.
 
