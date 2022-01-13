@@ -1,7 +1,7 @@
 # BTC-BSC-RegressiveWalletCrackers
 BTC and BSC regressive HD wallet derivation programs by use of specific mnemonic word prediction.
 
-Prediction method was for bitcoin was derived by use of real previously used mnemonics that were leaked to public that was strictly used as data. These were analyzed to create a method that vastly increases the probability of cracking a wallet with balance or transaction history.
+Prediction method for bitcoin was derived by use of real previously used mnemonics that were leaked to public that was strictly used as data. These were analyzed to create a method that vastly increases the probability of cracking a wallet with balance or transaction history.
 
 
 Written in javascript by use of node.js. Other options are available if node is not viable.
