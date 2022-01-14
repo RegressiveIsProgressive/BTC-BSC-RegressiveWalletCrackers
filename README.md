@@ -32,6 +32,5 @@ Follow readme file to install required modules for the proper function of the sc
 
 Only accepting 5-10 indivduals to test this initially. Others will be added quickly as time passes.
 
-If you are interested the testing documentation is stored via telegram https://t.me/+mkro7F1LmcJkMTg5 so we are able to communicate regularly as amount of testers is increase. We need feedback on your results and expect within a day of starting.
 
 Feel free to follow the project and one day in the very extended future this will hopefully be open to the public!
