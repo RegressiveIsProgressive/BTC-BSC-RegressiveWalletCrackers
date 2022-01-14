@@ -5,11 +5,11 @@ BTC and BSC regressive HD wallet derivation programs by use of specific mnemonic
 Prediction method for bitcoin was derived by use of real previously used mnemonics that were leaked to public that was strictly used as data. These were analyzed to create a method that vastly increases the probability of cracking a wallet with balance or transaction history.
 
 
-Written in javascript by use of node.js. Other options are available if node is not viable.
+Written in node.js. Other options are available if node is not viable.
 
 Looking for individuals who are able to run these scripts 24/7 and write a log of how many hits you have over a specified amount of time.
 
-DISCLAIMER - We are not liable/responsible for any reprecussions given due to these programs in any way. These programs are for educational and data collection purposes only.
+DISCLAIMER - We are not liable for any reprecussions given due to these programs in any way. These programs are for educational and data collection purposes only.
 
 Follow readme file to install required modules for the proper function of the scripts. Node modules are not included in download file to decrease file size.
 
