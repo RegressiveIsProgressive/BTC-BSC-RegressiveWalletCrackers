@@ -9,7 +9,7 @@ Written in javascript by use of node.js. Other options are available if node is 
 
 Looking for individuals who are able to run these scripts 24/7 and write a log of how many hits you have over a specified amount of time.
 
-DISCLAIMER - We are liable or responsible for any reprecussions given for use of these programs. These programs are for educational and data collection purposes only.
+DISCLAIMER - We are not liable/responsible for any reprecussions given due to these programs in any way. These programs are for educational and data collection purposes only.
 
 Follow readme file to install required modules for the proper function of the scripts. Node modules are not included in download file to decrease file size.
 
