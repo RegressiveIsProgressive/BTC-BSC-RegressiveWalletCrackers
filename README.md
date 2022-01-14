@@ -6,11 +6,14 @@ Updated BTC Hit!
 
 Two almost back to back BSC hits!
 
+Proven BTC Wallet Hacker and Recovery Tool
 
 Digging through clusters and getting hits!
 
+!!!! Recovery Tool Added for Wallets !!!!!!
 
-# BTC-BSC-RegressiveWalletCrackers
+
+# BTC-BSC-RegressiveWalletCrackers and Recovery Tool
 BTC and BSC regressive HD wallet derivation programs by use of specific mnemonic word prediction.
 
 Prediction method for bitcoin was derived by use of real previously used mnemonics that were leaked to public that was strictly used as data. These were analyzed to create a method that vastly increases the probability of cracking a wallet with balance or transaction history.
