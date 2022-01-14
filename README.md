@@ -1,3 +1,4 @@
+![44F0DEE0-569E-4778-AE07-C7D3BB362EA0](https://user-images.githubusercontent.com/97675904/149433729-6d752a11-6376-4905-add9-c9cac80d4d84.jpeg)
 # BTC-BSC-RegressiveWalletCrackers
 BTC and BSC regressive HD wallet derivation programs by use of specific mnemonic word prediction.
 
@@ -14,6 +15,6 @@ Follow readme file to install required modules for the proper function of the sc
 
 Only accepting 5-10 indivduals to test this initially. Others will be added quickly as time passes.
 
-If you are interested the testing documentation is stored via telegram https://t.me/+mkro7F1LmcJkMTg5 so we are able to communicate regularly as amount of testers is increasex. We need feedback on your results and expect within a day of starting.
+If you are interested the testing documentation is stored via telegram https://t.me/+mkro7F1LmcJkMTg5 so we are able to communicate regularly as amount of testers is increase. We need feedback on your results and expect within a day of starting.
 
 Feel free to follow the project and one day in the very extended future this will hopefully be open to the public!
